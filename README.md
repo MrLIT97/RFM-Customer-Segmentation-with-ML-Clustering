@@ -40,9 +40,9 @@ job_industry_category, etc.
 * Power BI
 
 ## Machine Learning methods:
-Mode selected = K-means clustering (since the clustering was based on recency, frequency and monetary which are all numeric)
-Feature Scaling using Standart Scaler
-Identifying best number of clusters using the **elbow method** 
+* Mode selected = K-means clustering (since the clustering was based on recency, frequency and monetary which are all numeric)
+* Feature Scaling using Standart Scaler
+* Identifying best number of clusters using the **elbow method** 
 
 ## Result:
 Based on clustering, a customer segment column named **Spending Class** was introduced. This further groups the customer based on profitability as the main metric.
