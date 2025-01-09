@@ -41,8 +41,8 @@ job_industry_category, etc.
 
 ## Machine Learning methods:
 * Mode selected = K-means clustering (since the clustering was based on recency, frequency and monetary which are all numeric)
-* Feature Scaling using Standart Scaler
+* Feature Scaling using Standard Scaler
 * Identifying best number of clusters using the **elbow method** 
 
 ## Result:
-Based on clustering, a customer segment column named **Spending Class** was introduced. This further groups the customer based on profitability as the main metric.
+Based on clustering, a customer segment column named **Spending Class** was introduced which groups customers based on how profitable they are to the company.
