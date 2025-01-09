@@ -1,7 +1,7 @@
 # RFM-Customer-Segmentation-with-ML-Clustering
 
 ## Introduction: 
-SPROCKET CENTRAL PTY LTD, a company that deals in the sales of bicycle requires that their customer records be analysed adequate customers segmentation. The aim is to better understand the strata of their customers based on profitability so as to guide subsequent marketing strategies. For this purpose, an RFM (Recency, Frequency, and Monetary) analysis was done using K-means clustering. RFM was calculated from the dataset. After segmentation, further analysis was done and visualised in Power BI for reportability.
+SPROCKET CENTRAL PTY LTD, a company that deals in the sales of bicycle requires that their customer records be analysed for adequate customers segmentation. The aim is to better understand the strata of their customers based on profitability so as to guide subsequent marketing strategies. For this purpose, an RFM (Recency, Frequency, and Monetary) analysis was done using K-means clustering. Corresponding RFM columns were calculated from the dataset. After segmentation, further analysis was done and visualised in Power BI for reportability.
 
 ## Dataset Description:
 The dataset was provided by KPMG for a virtual internship programme. It is a flat file gotten from the combination of separate files named: CustomerAddress, CustomerDemographics, and Transactions. It is a mixture of continuous and discrete variables with 13,861 observations and 29 features. Major features used for this analysis include: 
