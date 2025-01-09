@@ -46,3 +46,9 @@ job_industry_category, etc.
 
 ## Result:
 Based on clustering, a customer segment column named **Spending Class** was introduced which groups customers based on how profitable they are to the company.
+
+## Dashboad:
+![rfm1](https://github.com/user-attachments/assets/2166c38d-91b5-40de-b7a6-0104fbd52f44)
+![rfm2](https://github.com/user-attachments/assets/e7267d4c-0b0f-4cec-b37b-838152ace8d0)
+
+
