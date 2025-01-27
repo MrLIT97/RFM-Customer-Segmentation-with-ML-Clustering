@@ -37,7 +37,7 @@ job_industry_category, etc.
 ## Tool used:
 * Excel
 * [Python](https://github.com/MrLIT97/RFM-Customer-Segmentation-with-ML-Clustering/blob/main/C-S%20(RFM)-Code.ipynb)
-* Power BI
+* [Power BI](https://github.com/MrLIT97/RFM-Customer-Segmentation-with-ML-Clustering/blob/main/Customer%20Segmentation%20Dashboard.pdf)
 
 ## Machine Learning methods:
 * Mode selected = K-means clustering (since the clustering was based on recency, frequency and monetary which are all numeric)
